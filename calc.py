@@ -1,7 +1,7 @@
 class Calculator:
 
     def addition(self):
-
+        print(a + b)
 
     def subtraction(self):
         print(a - b)
@@ -11,3 +11,5 @@ class Calculator:
 
     def division(self):
         print(a / b)
+
+        Thsi is sample python file

@@ -1,13 +1,16 @@
 class Calculator:
 
     def addition(self):
-        print(a + b)
+        return(a + b)
 
     def subtraction(self):
-        print(a - b)
+        return(a - b)
 
     def multiplication(self):
-        print(a * b)
+        return(a * b)
 
     def division(self):
-        print(a / b)
+        return(a / b)
+
+    def square(a*a)
+        return(a)

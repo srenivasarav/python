@@ -1,0 +1,5 @@
+
+Maurice Leyland (20 July 1900 – 1 January 1967) was an English international cricketer, a left-handed batsman. He played 41 Test matches between 1928 and 1938 and was a Wisden Cricketer of the Year in 1929. In first-class cricket, he represented Yorkshire between 1920 and 1946, scoring over 1,000 runs in 17 consecutive seasons. He made his Test début in 1928 against West Indies, and was a member of the English team that toured Australia that winter, scoring a century in his only Test of the series. He held his place most of the time until 1938 when he was replaced for the series against Australia. Recalled to play in the final match, he scored 187, his personal best Test score, in his last ever Test match. Leyland had a reputation for batting well under pressure. He performed most effectively against the best teams and bowlers; his Test batting record is better than his first-class figures, and against Australia his average is even higher. Leyland had a reputation as a humorist, with many stories told about him. (Full article...)
+
+
+

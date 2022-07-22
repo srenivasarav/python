@@ -15,3 +15,5 @@ class Calculator:
     def square(a*a)
         return(a)
 #commenting the line
+#This is  new commit in feqatured
+
